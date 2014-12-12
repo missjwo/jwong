@@ -53,6 +53,8 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 18px;
   -webkit-font-smoothing: antialiased;
+  margin-left: 30%;
+  margin-right: 30%;
 }
 
 h1 {
@@ -135,7 +137,8 @@ a:hover {
   border: 5px solid #4A3A00;
 	border-radius: 10px 10px 10px 10px;
   opacity: 0.9;
-  max-width: 100%;
+  max-width: 98%;
+  margin-top: 10px;
 }
 
 i{
