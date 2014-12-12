@@ -158,10 +158,6 @@ li {
 
 li a {
   font-size: 24px;
-  opacity: 1;
-}
-li a:hover {
-  opacity: 0.5;
 }
 
 .fa-hidden {
