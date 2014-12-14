@@ -58,8 +58,9 @@ body {
 }
 @media (max-width: 600px) {
   body {
-    margin-left: 5%;
-    margin-right: 5%;
+    font-size: 24px;
+    margin-left: 10%;
+    margin-right: 10%;
   }
 }
 
