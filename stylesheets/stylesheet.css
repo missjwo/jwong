@@ -56,6 +56,12 @@ body {
   margin-left: 30%;
   margin-right: 30%;
 }
+@media (max-width: 600px) {
+  body {
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+}
 
 h1 {
   font-family: 'Vollkorn', serif;
