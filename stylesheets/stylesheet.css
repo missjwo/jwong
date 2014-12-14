@@ -49,6 +49,7 @@ font-family: 'Vollkorn', serif;
 */
 body {
   background-color: #F7C400;
+  background-image: url('../images/yellow_bg.png');
   color: #2C211B;
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 18px;
