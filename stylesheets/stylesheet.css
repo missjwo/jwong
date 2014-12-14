@@ -96,7 +96,7 @@ a:hover {
 }
 @media (max-width: 500px) {
   .latestTweet {
-    min-width: auto;
+    min-width: inherit;
   }
 }
 .latestTweet:before {
