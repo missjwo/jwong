@@ -94,7 +94,11 @@ a:hover {
   position: relative;
 	text-decoration: none;
 }
-
+@media (max-width: 400px) {
+  .latestTweet {
+    min-width: auto;
+  }
+}
 .latestTweet:before {
 	border-color: #4A3A00 transparent;
 	border-style: solid;
